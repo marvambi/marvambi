@@ -15,6 +15,8 @@ My name is Marvin 'n' I am a software engineer and aspiring Tech entrepreneur ðŸ
 <br>
 <br>
 
+[![Marvambi's GitHub stats](https://github-readme-stats.vercel.app/api?username=marvambi)](https://github.com/marvambi)
+
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 ###Coming Soon
