@@ -15,7 +15,13 @@ My name is Marvin 'n' I am a software engineer and aspiring Tech entrepreneur ðŸ
 <br>
 <br>
 
-[![Marvambi's GitHub stats](https://github-readme-stats.vercel.app/api?username=marvambi&count_private=true)](https://github.com/marvambi)
+## My Streaks
+
+[![Marvambi's Github Streaks](https://github-readme-streak-stats.herokuapp.com/?user=marvambi&fire=eb1b0c&ring=eb1b0c&currStreakLabel=eb1b0c)](https://marvambi.com)
+
+## My Stats
+
+[![Marvambi's GitHub stats](https://github-readme-stats.vercel.app/api?username=marvambi&count_private=true&show_icons=true&theme=radical)](https://github.com/marvambi)
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
