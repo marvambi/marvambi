@@ -25,7 +25,7 @@ My name is Marvin 'n' I am a software engineer and aspiring Tech entrepreneur ðŸ
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-### Coming Soon
+### Coming Soon...
 <!-- BLOG-POST-LIST:END -->
 
 
